@@ -12,9 +12,13 @@ Curso Versionamento de código com Git e GitHub da [Digital Innovation One](http
 ## 💻 Resumos das Aulas
 | Aulas |Resumos |
 |-------|--------|
-|Gravando Alterações no Repositório Local | [Resumos]() |
-...
+|Aula 01 | [Resumos]() |
+|Aula 02 | [Resumos]() |
+
+
 git init
 
 
-# wbafin-dio-resumos-git-github
+
+## 🔍 Referências
+- [Digital Innovation One]().
